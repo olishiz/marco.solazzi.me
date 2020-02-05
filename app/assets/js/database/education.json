@@ -1,18 +1,9 @@
 [
     {
-        "id": 2,
-        "institute": "European Social Fund (ESF) Training Course",
-        "date": "2005-04-21",
-        "title": "Web Developer and Designer"
-    }, {
         "id": 0,
-        "institute": "Cisco Networking Academy",
-        "date": "2004-06-03",
-        "title": "Cisco Certified Network Associated"
-    }, {
-        "id": 1,
-        "institute": "University of Modena and Reggio Emilia",
-        "date": "2003-06-23",
-        "title": "Bachelor's Degree in Communication Sciences"
+        "institute": "Taylor's University",
+        "date-graduated": "December 2018",
+        "title": "Bachelor's Degree in Computer Science",
+        "grade": "<abbr title=\"Cumulative Grade Point Average\">CGPA</abbr> 3.88"
     }
 ]

@@ -14,112 +14,96 @@
                 "level": 100
             },
             {
-                "id": "pre-post-processors",
-                "label": "Sass/SCSS, PostCSS",
-                "level": 100
-            },
-            {
                 "id": "es2015",
                 "label": "JavaScript (ES2015+)",
                 "level": 100
             },
             {
-                "id": "typescript",
-                "label": "Typescript",
-                "level": 70
+                "id": "java",
+                "label": "Java",
+                "level": 90
             },
             {
-                "id": "backend",
+                "id": "php",
                 "label": "PHP5.5+",
-                "level": 80
+                "level": 90
             }
         ]
     },
     {
-        "label": "JavaScript Libraries",
+        "label": "Front-End JavaScript Libraries",
         "ico": "extension",
         "data": [
             {
-                "id": "react",
-                "label": "React ( + Redux / MobX)",
-                "level": 90
-            },
-            {
-                "id": "vue",
-                "label": "Vue.js",
+                "id": "bootstrap",
+                "label": "Bootstrap v4.0",
                 "level": 100
             },
             {
-                "id": "old-school",
-                "label": "Angular 1.x , Backbone.js",
-                "level": 90
+                "id": "angularJs",
+                "label": "AngularJS 1.x",
+                "level": 80
             },
             {
-                "id": "animation",
-                "label": "GSAP, anime.js, velocity.js",
-                "level": 100
-            },
-            {
-                "id": "webgl",
-                "label": "pixi.js",
-                "level": 50
+                "id": "angular",
+                "label": "Angular 6+",
+                "level": 70
             },
             {
                 "id": "dom-libraries",
                 "label": "jQuery 3+",
                 "level": 100
+            },
+            {
+                "id": "laravel-blade",
+                "label": "Laravel Blade",
+                "level": 100
             }
         ]
     },
     {
-        "label": "Development Tools",
+        "label": "Back-End Framework",
         "ico": "checklist",
         "data": [
             {
-                "id": "unit-testing",
-                "label": "Jest, Karma, Mocha + Chai",
+                "id": "laravel",
+                "label": "Laravel",
                 "level": 90
-            }, {
-                "id": "e2e-testing",
-                "label": "Nightwatch.js, TestCafe",
-                "level": 70
-            }, {
-                "id": "linting-js",
-                "label": "eslint, prettier",
-                "level": 100
-            }, {
-                "id": "linting-style",
-                "label": "stylelint, scss-lint",
-                "level": 100
-            }, {
-                "id": "design-system",
-                "label": "Storybook",
-                "level": 100
+            },
+            {
+                "id": "laravel-eloquent",
+                "label": "Laravel Eloquent ORM",
+                "level": 90
+            },
+            {
+                "id": "spring-framework",
+                "label": "Spring Framework",
+                "level": 80
+            },
+            {
+                "id": "hibernate",
+                "label": "Hibernate",
+                "level": 80
             }
         ]
     },
     {
-        "label": "Frontend Ops",
+        "label": "Database",
         "ico": "terminal",
         "data": [
             {
-                "id": "grunt",
-                "label": "Grunt",
+                "id": "sql",
+                "label": "SQL",
                 "level": 100
             },
             {
-                "id": "gulp",
-                "label": "Gulp.js",
+                "id": "dml",
+                "label": "DML",
                 "level": 100
             },
             {
-                "id": "webpack",
-                "label": "Webpack",
-                "level": 90
-            },
-            {
-                "id": "rollup",
-                "label": "Rollup",
+                "id": "ddl",
+                "label": "DDL",
                 "level": 100
             }
         ]
@@ -161,20 +145,23 @@
         "data": [
             {
                 "id": "ide",
-                "label": "Webstorm",
+                "label": "Intellij IDEA Ultimate",
                 "level": 100
-            }, {
-                "id": "editors",
-                "label": "VSCode, Sublime Text",
+            },
+            {
+                "id": "database",
+                "label": "Intellij Database Tool",
                 "level": 100
-            }, {
-                "id": "software",
-                "label": "Photoshop",
+            },
+            {
+                "id": "vagrant",
+                "label": "Vagrant",
                 "level": 90
-            }, {
-                "id": "vector",
-                "label": "Adobe XD, Sketch",
-                "level": 80
+            },
+            {
+                "id": "vcs",
+                "label": "Sourcetree",
+                "level": 90
             }
         ]
     }

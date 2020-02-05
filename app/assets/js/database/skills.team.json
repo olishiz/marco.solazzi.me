@@ -30,8 +30,8 @@
         "data": [
             {
                 "id": "vcs",
-                "label": "Git (git-flow)",
-                "level": 80
+                "label": "Git",
+                "level": 100
             },
             {
                 "id": "svn",
@@ -40,17 +40,17 @@
             },
             {
                 "id": "github",
-                "label": "Github / Gitlab",
+                "label": "Github / Bitbucket",
                 "level": 100
             },
             {
-                "id": "redmine",
-                "label": "Redmine",
-                "level": 70
+                "id": "jenkins",
+                "label": "Jenkins",
+                "level": 80
             },
             {
-                "id": "jira",
-                "label": "Jira",
+                "id": "trello",
+                "label": "Trello",
                 "level": 100
             }
         ]
