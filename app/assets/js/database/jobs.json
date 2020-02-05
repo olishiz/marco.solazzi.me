@@ -4,6 +4,7 @@
         "company": "CapitalBay",
         "from": "2019-11-04",
         "to": "2020-02-05",
+        "duration": "4 months",
         "title": "Software Engineer",
         "description": "Working as Full Stack Engineer for Credit Innovation Projects and <abbr title=\"Application Programming Interface\">API</abbr> Developer",
         "_link": "https://capitalbay.com.my/"
@@ -13,6 +14,7 @@
         "company": "iFAST Corporation Ltd",
         "from": "2019-02-01",
         "to": "2019-11-01",
+        "duration": "10 months",
         "title": "Full Stack Developer",
         "description": "Working as Full Stack Engineer for multiple <abbr title=\"Business-To-Business\">B2B</abbr> Projects and maintaining/enhancing existing web apps",
         "_link": "http://www.ifastcorp.com/"
@@ -22,6 +24,7 @@
         "company": "Synergize Global",
         "from": "2017-11-01",
         "to": "2018-07-01",
+        "duration": "9 months",
         "title": "Business Analyst Internship",
         "description": "Analyse and strategize plans to approach a more effective collaborative events",
         "_link": "https://www.facebook.com/synergize.global/"
