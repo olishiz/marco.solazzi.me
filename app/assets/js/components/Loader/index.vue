@@ -5,9 +5,9 @@
     >
         <header :class="$style.root" v-show="active">
             <div :class="['h1', $style.body, { [$style.isEntering] : entering }]">
-                <span :class="$style.line">Geeks.query(</span>
-                <span :class="$style.linePre">&apos;/usr/<mark class="u-type--mark">marco+solazzi</mark>&apos;,</span>
-                <span :class="$style.linePre">&apos;job=<mark class="u-type--mark">frontend</mark>&apos;</span>
+                <span :class="$style.line">Developer.query(</span>
+                <span :class="$style.linePre">&apos;/usr/<mark class="u-type--mark">oliver+sim</mark>&apos;,</span>
+                <span :class="$style.linePre">&apos;job=<mark class="u-type--mark">fullstack dev</mark>&apos;</span>
                 <span :class="$style.line">).then((me) =&rsaquo;<span :class="$style.dots" />{{dots}}</span>
             </div>
         </header>

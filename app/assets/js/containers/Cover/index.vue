@@ -10,16 +10,16 @@
             <span ref="top" :class="$style.intersectTop" data-pos="top" />
             <div :class="$style.pic" ref="pic">
                 <transition name="async-avatar" appear :duration="transitionDuration">
-                    <Avatar v-if="active" :active="active" :class="$style.avatar" :foreground="marco" :background="animal" />
+                    <Avatar v-if="active" :active="active" :class="$style.avatar" :foreground="oli" :background="oli" />
                 </transition>
             </div>
             <div :class="$style.body">
 
                 <h2 lang="ja" :class="$style.headline">こんにちは！</h2>
                 <article :class="$style.text">
-                    <p>My name is <b>Marco Solazzi</b></p>
-                    <p>I am a 40yo <b>Frontend Developer</b> / <b>UX Engineer</b>, technical <b>writer</b> and <b>speaker</b> from Verona (Italy). Living in Tokyo. I speak Italian (of course), English, French and some Japanese.</p>
-                    <p>Since 2014 I am co-founder and host of the <b><a href="http://www.fevr.it" target="_blank" rel="noopener noreferrer">FEVR Frontenders Meetup</a></b> .</p>
+                    <p>My name is <b>Oliver Sim.</b></p>
+                    <p>I am a 25yo <b>Full Stack Developer</b> / <b>UX Engineer</b> from Malaysia. Living in Selangor. I speak English, Malay, Mandarin, and some Hokkien.</p>
+                    <p>Minimalist. Loves dogs. Enjoy football.</p>
                 </article>
                 <footer :class="$style.footer">
                     <SocialList :items="socials" :class="$style.socialList" />
@@ -39,6 +39,7 @@ import { mapState, mapActions } from 'vuex';
 //import anime from 'animejs';
 import { NAV_PATH_HOME, NAV_PATH_JOBS, GROUP_COVER, GROUP_PAGELIST, GROUP_LOADER } from '@/shared/constants';
 import marco from 'images/marco.jpg';
+import oli from 'images/oliver.jpg';
 import animal from 'images/marco-full.jpg';
 import Ico from '@/objects/Ico';
 import SocialList from '@/objects/SocialList';
@@ -65,6 +66,7 @@ export default {
             id: NAV_PATH_HOME,
             NAV_PATH_JOBS,
             marco,
+            oli,
             animal,
             firstEnter: true,
             canScroll: false

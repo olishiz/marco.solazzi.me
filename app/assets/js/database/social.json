@@ -1,27 +1,27 @@
 [
     {
-        "type": "link",
-        "url": "http://marco.solazzi.me",
-        "label": "marco.solazzi.me"
-    }, {
         "type": "twitter",
-        "url": "https://twitter.com/dwightjack",
-        "label": "@dwightjack"
-    }, {
+        "url": "https://twitter.com/olitehshiz",
+        "label": "@olitehshiz"
+    },
+    {
         "type": "pencil",
-        "url": "mailto:marco@solazzi.me",
-        "label": "marco@solazzi.me"
-    }, {
+        "url": "mailto:zhuen1101@hotmail.com",
+        "label": "zhuen1101@hotmail.com"
+    },
+    {
         "type": "github",
-        "url": "https://github.com/dwightjack",
-        "label": "dwightjack"
-    }, {
+        "url": "https://github.com/olishiz",
+        "label": "olishiz"
+    },
+    {
         "type": "linkedin",
-        "url": "https://it.linkedin.com/in/marcosolazzi",
-        "label": "in/marcosolazzi"
-    }, {
+        "url": "https://www.linkedin.com/in/olishiz/",
+        "label": "in/olishiz"
+    },
+    {
         "type": "pdf",
-        "url": "https://www.dropbox.com/s/3tpi607k28yuajg/marco-solazzi-frontend-developer-resume-201909.pdf?dl=0",
+        "url": "https://drive.google.com/file/d/1jHciuJIoDMEfaELnfnowEunRnLzvQbtJ/view",
         "label": "pdf/resume"
     }
 ]
