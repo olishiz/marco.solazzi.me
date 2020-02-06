@@ -21,7 +21,7 @@
     "modernizr": "node ./node_modules/umeboshi-scripts/modernizr",
     "modernizr:production": "cross-env NODE_ENV=production npm run modernizr",
     "clean": "rimraf ./public/*",
-    "build": "npm run clean && npm run lint && npm run modernizr && npm run webpack",
+    "build": "npm run clean && npm run modernizr && npm run webpack",
     "build:production": "cross-env NODE_ENV=production npm run build",
     "eslint": "eslint -c ./app/assets/js/.eslintrc.json \"./app/assets/js/**/*.{vue,js}\"",
     "stylelint": "stylelint './app/assets/**/*.{vue,scss,css}' --config .stylelintrc.json",
